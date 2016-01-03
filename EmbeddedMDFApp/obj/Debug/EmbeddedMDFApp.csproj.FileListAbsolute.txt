@@ -1,0 +1,7 @@
+C:\GitHub\EmbeddedMDFApp\EmbeddedMDFApp\bin\Debug\EmbeddedMDFApp.exe
+C:\GitHub\EmbeddedMDFApp\EmbeddedMDFApp\bin\Debug\EmbeddedMDFApp.pdb
+C:\GitHub\EmbeddedMDFApp\EmbeddedMDFApp\obj\Debug\EmbeddedMDFApp.csprojResolveAssemblyReference.cache
+C:\GitHub\EmbeddedMDFApp\EmbeddedMDFApp\obj\Debug\EmbeddedMDFApp.exe
+C:\GitHub\EmbeddedMDFApp\EmbeddedMDFApp\obj\Debug\EmbeddedMDFApp.pdb
+C:\GitHub\EmbeddedMDFApp\EmbeddedMDFApp\bin\Debug\TestDatabase.mdf
+C:\GitHub\EmbeddedMDFApp\EmbeddedMDFApp\bin\Debug\TestDatabase_log.ldf
